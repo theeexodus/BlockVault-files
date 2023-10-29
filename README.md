@@ -1,5 +1,5 @@
 ```markdown
-# BlockVault by "The Exodus"
+## BlockVault by "The Exodus"
 
 Secure your digital assets with blockchain technology.
 
