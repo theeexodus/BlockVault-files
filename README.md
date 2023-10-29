@@ -1,11 +1,11 @@
 ```markdown
 # BlockVault by "The Exodus"
 
-**Secure your digital assets with blockchain technology.**
+Secure your digital assets with blockchain technology.
 
 BlockVault is a Python-based blockchain project built on the Chain Len platform. It provides a robust solution for protecting your digital assets and sensitive information.
 
-## Getting Started
+# Getting Started
 
 To use BlockVault, you can either install the required dependencies using:
 
