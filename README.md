@@ -3,11 +3,11 @@
 
 **Secure your digital assets with blockchain technology.**
 
-Exodus eVault is a Python-based blockchain project built on the Chain Len platform. It provides a robust solution for protecting your digital assets and sensitive information.
+BlockVault is a Python-based blockchain project built on the Chain Len platform. It provides a robust solution for protecting your digital assets and sensitive information.
 
 ## Getting Started
 
-To use Exodus eVault, you can either install the required dependencies using:
+To use BlockVault, you can either install the required dependencies using:
 
 ```bash
 pip install -r requirements.txt
