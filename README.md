@@ -33,5 +33,9 @@ This project is licensed under the [MIT License] - see the [LICENSE](LICENSE) fi
 
 This README.md section provides an introduction to our project, instructions for getting started, and information about the contributors.
 
-Warning: There could potential issues with system differences or outdated dependencies, urging users to be mindful when running the code.
+
+#Warning: There could potential issues with system differences or outdated dependencies, urging users to be mindful when running the code.
+
+#We encourage users to contribute and edit the code to address potential bugs or errors they may encounter.
+
 
