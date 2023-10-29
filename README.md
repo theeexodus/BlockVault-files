@@ -1,24 +1,6 @@
 GFG VIT-AP Hackathon
-# BlockVault by "The Exodus"
-
-**Secure your digital assets with blockchain technology.**
-
-BlockVault is a Python-based blockchain project built on the Chain Len platform. It provides a robust solution for protecting your digital assets and sensitive information.
-
-## About .pyc Files
-
-BlockVault may generate .pyc files during execution. A .pyc file is a compiled Python code file that contains the compiled bytecode of the corresponding .py file. These files are created to enhance the performance of your Python application.
-
-Please Note: .pyc files should not be modified. They are meant to be executed by the Python virtual machine and are automatically generated when necessary.
-
-## Getting Started
-
-To use BlockVault, you can either install the required dependencies using:
-
-```bash
-pip install -r requirements.txt
-/////
-```markdown
+```
+```
 # BlockVault by "The Exodus"
 
 Secure your digital assets with blockchain technology.
@@ -38,6 +20,11 @@ Or run the application directly with:
 ```bash
 python run_app.py
 ```
+## About .pyc Files
+
+BlockVault may generate .pyc files during execution. A .pyc file is a compiled Python code file that contains the compiled bytecode of the corresponding .py file. These files are created to enhance the performance of your Python application.
+
+Please Note: .pyc files should not be modified. They are meant to be executed by the Python virtual machine and are automatically generated when necessary.
 
 ## Contributors
 
