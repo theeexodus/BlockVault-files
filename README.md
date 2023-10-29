@@ -22,7 +22,9 @@ python run_app.py
 ## Contributors
 
 - Fred: Frontend and Basic Backend
-- Sarang: Blockchain and Other Backend
+  (https://github.com/fredlee-al)
+- Sarang: Blockchain and Other Backend related Stuffs
+  (https://github.com/sarangpacharath)
 
 ## License
 
