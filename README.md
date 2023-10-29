@@ -1,5 +1,3 @@
-Certainly, here's a README.md section for your GitHub repository:
-
 ```markdown
 # Exodus eVault
 
